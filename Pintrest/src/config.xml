@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+  <password>your_email_here</password>
+  <email>your_email_here</email>
+  <data> //path_to//data.txt</data>
+</user>
